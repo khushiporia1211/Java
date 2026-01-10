@@ -6,7 +6,7 @@ public class whileLoop {
         int i = 1;
         while(i<=10){
             int table = i*num;
-            System.out.println(table);
+            System.out.println(num+" X "+i+" = "+table);
            i++;
         }
 
