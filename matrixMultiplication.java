@@ -10,6 +10,7 @@ public class matrixMultiplication {
                 arr2[i][j] =0;
                 for(int k = 0; k<2; k++){
                     arr2[i][j] = arr2[i][j] + arr[i][k]*arr1[k][j];
+
                 }
             }
         }
