@@ -1,7 +1,7 @@
 public class ClassStructure {
     public static void main(String[] args) {
-        Student s1 = new Student();
-        Student s2 = new Student();
+        Student1 s1 = new Student1();
+        Student1 s2 = new Student1();
         s1.name = "Khushi";
         s1.age = 19;
         s1.rollno = 122;
@@ -17,7 +17,7 @@ public class ClassStructure {
 
     }
 }
-class Student{
+class Student1{
     String name;
     int rollno;
     int age;
