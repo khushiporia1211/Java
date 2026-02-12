@@ -10,8 +10,8 @@ class Sub extends Super{
 }
 public class methodOverriding {
     public static void main(String[] args) {
-        Super su = new Super();
-        su.display();
+//        Super su = new Super();
+//        su.display();
         Sub sb = new Sub();
         sb.display();
 
