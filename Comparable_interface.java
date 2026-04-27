@@ -8,7 +8,7 @@ class Point implements Comparable{
         this.y = y;
     }
     public String toString(){
-        return " X= "+x+" CY= "+y;
+        return " X= "+x+" Y= "+y;
     }
     public int compareTo(Object o){
         Point p = (Point)o;
