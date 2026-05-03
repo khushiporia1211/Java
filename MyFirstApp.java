@@ -11,6 +11,7 @@ class MyFrame extends Frame{
         tf = new TextField(20);
         b = new Button("OK");
 
+
         add(l);
         add(tf);
         add(b);

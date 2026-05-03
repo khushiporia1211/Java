@@ -15,6 +15,7 @@ public class userDefinedException {
         }
     }
     public static void main(String[] args) {
+
         fun1();
     }
 }
